@@ -116,6 +116,9 @@ h1 {
     margin-left: 0%;
 
 }
+#projects a:hover{
+    background-color: tomato;
+}
 .projo {
     display: flex;
 }
