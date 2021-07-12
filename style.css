@@ -85,6 +85,7 @@ img {
     flex-direction: column;
     background-color: black;
     color: whitesmoke; 
+    margin-bottom: 0%;
 }
 .contact {
     display: flex;
@@ -189,7 +190,14 @@ h1 {
     width: 20%;
     margin-left: 500px;
 }
+footer {
+    background-color: black;
+    color: white;
+    margin-top: 0%;
+    height: 80px;
+    text-align: center;
 
+}
 
 
 
