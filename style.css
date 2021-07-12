@@ -65,7 +65,7 @@ img {
     position: relative;
     display: flex;
     align-items: center;
-    margin-left: 250px;
+    margin-left: 200px;
 }
 #description img{
     border-radius: 0%;
@@ -75,6 +75,8 @@ img {
 }
 #about {
     text-align: center;
+    font-size: 1.0em;
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
     padding: 15px;
     align-items: justify;
     justify-content: space-evenly;
