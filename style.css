@@ -1,0 +1,192 @@
+html {
+    scroll-behavior: smooth;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(10, 18, 36);
+    align-items: center;
+}
+.nav ul{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 400px;
+    padding-left: 100px;
+}
+.nav ul li{
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.nav ul li a  {
+    padding: 8px;
+    transition: 0.9s;
+}
+a:hover {
+    background-color: turquoise;
+}
+#part1 {
+    position: relative;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    height: 900px;
+    width: 100%;
+
+}
+img {
+    opacity: 0.7;
+    height: 300px;
+    width:300px;
+    border-radius: 50%;
+    margin-top: 250px;
+}
+.name {
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+.name2 {
+    margin-top: 200px;
+}
+#part2 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+#description {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+}
+#description img{
+    border-radius: 0%;
+    height: 350px;
+    width: 350px;
+    border-top: 20px;
+}
+#about {
+    text-align: center;
+    padding: 15px;
+    align-items: justify;
+    justify-content: space-evenly;
+    
+}
+#contacts {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: whitesmoke; 
+}
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h3 {
+    text-align: left;
+    font-size: x-large;
+    font-weight: bold;
+    width: 100%;
+    height: 30px;
+    padding-top: 5px;
+}
+h1 {
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+}
+#projects {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    margin-left: 0%;
+
+}
+.projo {
+    display: flex;
+}
+.fashion {
+    display: flex;
+}
+.fashion:hov {
+
+}
+.fashion p {
+    font-size: large;
+    text-align: justify;
+    justify-content: space-around;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#p1 {
+    display: flex;
+    text-align: center;
+    width: 450px;
+    height: 350px;
+    border: 2px solid gray;
+    margin-left: 0%;
+    background: linear-gradient(to top, turquoise 50%, white 50%);
+    background-size: 100% 200%;
+    transition: all 0.5s;
+    padding: 10px;
+}
+#p1:hover{
+    color: black;
+    background-position: left bottom;
+    box-shadow: 0 0 30px rgb(50,50,50);
+}
+#p2 {
+    display: flex;
+    width: 450px;
+    height: 350px;
+    border: 2px solid gray;
+    margin-left: 25px;
+    background: linear-gradient(to top, turquoise 50%, white 50%);
+    background-size: 100% 200%;
+    transition: all 0.5s;
+    padding: 10px;
+}
+#p2:hover{
+    color: black;
+    background-position: left bottom;
+    box-shadow: 0 0 30px rgb(50,50,50);
+}
+
+#p3 {
+    display: flex;
+    width: 450px;
+    height: 350px;
+    border: 2px solid gray;
+    margin-left: 25px;
+    background: linear-gradient(to top, turquoise 50%, white 50%);
+    background-size: 100% 200%;
+    transition: all 0.5s;
+    padding: 10px;
+}
+#p3:hover{
+    color: black;
+    background-position: left bottom;
+    box-shadow: 0 0 30px rgb(50,50,50);
+}
+
+#submit:hover {
+    background-color: royalblue;
+}
+.me {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-left: 500px;
+}
+
+
+
+
+
+
