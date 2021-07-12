@@ -80,6 +80,11 @@ img {
     justify-content: space-evenly;
     
 }
+#about a:hover{
+    background-color: white;
+    color: red;
+
+}
 #contacts {
     display: flex;
     flex-direction: column;
