@@ -27,6 +27,7 @@ html {
 }
 a:hover {
     background-color: turquoise;
+    box-shadow: 5px 10px green;
 }
 #part1 {
     position: relative;
